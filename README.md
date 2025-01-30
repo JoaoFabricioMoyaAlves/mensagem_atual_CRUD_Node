@@ -1,2 +1,2 @@
 # mensagem_atual_CRUD_Node
- uma aplicação q salva uma unica mensagem no banco de dados exibi ela na tela utilijando NODE.js com AJAX e Jquery
+ Uma aplicação que salva uma única mensagem no banco de dados e exibi ela na tela utilizando NODE.js com AJAX e Jquery
