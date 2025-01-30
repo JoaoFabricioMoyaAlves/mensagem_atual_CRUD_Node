@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+
+.title{
+    margin-top: 2%;
+    margin-left: 60%;
+}
+
+.title h1{
+    font-size: 80px;
+}
+
+.title h2{
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+.mensagem_box{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.msg_title{
+    font-size: 42px;
+    display: flex;
+}
+
+.btn_limpar{
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    background-color: transparent;
+    transition: 1s;
+}
+
+.btn_limpar:hover{
+    background-color: black;
+    border: 2px solid red;
+    color: red;
+}
+
+.mensagem{
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 30px;
+}
+
+.edit_mensagem_box{
+    margin-top: 10%;
+    margin-left: 50%;
+}
+
+ .edit_msg_title{
+    font-size: 35px;
+}
+
+.edit_mensagem_box input{
+    width: 300px;
+    height: 30px;
+}
+
+.edit_mensagem_box button{
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    transition: 1s;
+}
+
+.edit_mensagem_box button:hover{
+    background-color: black;
+    border: 4px solid green;
+    color: green;
+}
